@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    background-color: #e8cf9c;
+}
+#n3{
+    margin: 0%;
+    justify-content: left;
+    
+}
+#casinha{
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 90%;
+}
+#h1p{
+    text-align: center;
+    background-color: #F6C973;
+    border: 5px solid #C1554C;
+    padding: 20px;
+}
+#cxa{
+    background-color: whitesmoke;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 100px;
+    margin: 20px;
+}
+#tomate{
+    position: absolute;
+    margin: -8% -13% 10% -3%;
+    
+    
+}
+#h2{
+    position: absolute;
+    margin: -5% 35%;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
+#check{
+    position: absolute;
+    margin-top: -11%;
+    margin-left: 90%;
+    transform: scale(5);
+}
+.botao{
+    border: solid 0px #a50000;
+    border-radius: 30px;
+    color: whitesmoke;
+    background-color: #a50000;
+    font-size: 30px;
+    margin-left:85%;
+    margin-top: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    margin-bottom: 3%;
+    height: 50px;
+    width: 110px;
+}

@@ -1,0 +1,64 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: #e8cf9c;
+}
+#n3{
+    margin: 0%;
+    justify-content: left;
+}
+#h1p{
+    text-align: center;
+    background-color: #F6C973;
+    border: 5px solid #C1554C;
+    padding: 20px;
+}
+#btn1{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: whitesmoke;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    text-decoration: none; 
+    padding: 30px;
+    margin-left: 38%;
+    cursor: pointer;
+}
+#btn2{
+    text-align: center;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: whitesmoke;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    text-decoration: none; 
+    padding: 30px 65px 20px 60px;
+    margin-left: 38%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+#btn3{
+    text-align: center;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: whitesmoke;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    text-decoration: none; 
+    padding: 30px 14px 20px 20px;
+    margin-left: 38%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+#a1{
+    flex-direction: column;
+    margin-top: 10%;
+}
+#casinha{
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 90%;
+}

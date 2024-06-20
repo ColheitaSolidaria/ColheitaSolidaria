@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    background-color: #e8cf9c;
+}
+#n3{
+    margin: 0%;
+    justify-content: left;
+    
+}
+#casinha{
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 90%;
+}
+#h1p{
+    text-align: left;
+    background-color: #F6C973;
+    border: 5px solid #C1554C;
+    padding: 20px;
+}
+#but2{
+    justify-content: left;
+    margin-right: 80%;
+    background-color: whitesmoke;
+    padding: 30px 60px 30px 30px;
+    border-radius: 60px;
+    display: inline-flex;
+    margin-left: 10px;
+    
+}
+#btnmais{
+    background-color: rgb(210, 209, 209) ;
+    border: 2px solid rgb(210, 209, 209);
+    border-radius: 40px;
+    padding: 7px 15px 10px 15px;
+    position: absolute;
+    font-size: 30px;
+    margin-top: -18px;
+    margin-left: -20px;
+    cursor: pointer;
+
+}
+#btn1{
+    display: inline;
+    border:  2px solid whitesmoke;
+    border-radius: 10px;
+}
+#re1{
+    margin-left:52px ;
+    font-weight: bold;
+}
+#re2{
+    margin-left: 5px;
+    font-weight: bold;
+    
+}
+.yellow{
+    color: #a18654;
+}
+.center{
+    text-align: center;
+}

@@ -1,0 +1,48 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: #e8cf9c;
+}
+#n3{
+    margin: 0%;
+    justify-content: left;
+}
+div{
+    display: inline-block;
+    
+    margin-left: 20%;
+    margin-top: 20%;
+}
+#a2{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    background-color: brown;
+    border: 1px solid brown;
+    border-radius: 30px;
+    text-decoration: none; 
+    padding: 80px;
+    margin-right: -50%;
+    
+}
+
+#a1{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    background-color: brown;
+    border: 1px solid brown;
+    border-radius: 30px;
+    text-decoration: none; 
+    padding: 80px;
+    margin-left: -50%;
+    
+    
+}
+#casinha{
+    margin-left: 70%;
+    margin-top: 3%;
+    position: absolute;
+}
+    
+

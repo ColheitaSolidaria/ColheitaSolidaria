@@ -1,0 +1,66 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: #e8cf9c;
+}
+#n3{
+    margin: 0%;
+    justify-content: left;
+}
+#h1p{
+    text-align: left;
+    background-color: #F6C973;
+    border: 5px solid #C1554C;
+    padding: 20px;
+}
+#casinha{
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 90%;
+}
+form input{
+    background-color: whitesmoke;
+    margin-top: 5%;
+    padding: 30px 190px 10px 30px;
+    width: 80vw;
+    border: 2px solid whitesmoke;
+    border-radius: 30px;
+    text-align: left;
+    margin-left: 2%;
+} 
+label{
+    position: absolute;
+    margin-left: 3%;
+    font-weight: bold;
+    font-size: 19px;
+    margin-top: 3%;
+
+}
+.botao{
+    border: solid 0px #a50000;
+    border-radius: 30px;
+    color: whitesmoke;
+    background-color: #a50000;
+    font-size: 30px;
+    margin-left: 27%;
+    margin-top: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    margin-bottom: 3%;
+}
+.botao:hover{
+    border: #ad382d;
+    background-color: #ad382d;
+    color: whitesmoke;
+    transform: scale(1.1)
+}
+textarea{
+    padding: 30px 350px 30px 30px;
+    background-color: whitesmoke;
+    border: 3px solid whitesmoke;
+    border-radius: 30px;
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 70vw;
+}

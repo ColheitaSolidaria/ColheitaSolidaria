@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colheita Solidária</title>
+    <link rel="shortcut icon" href="lgtpsolo.ico">
+    <link rel="stylesheet" href="formdoacao.css">
+</head>
+<style>
+    *{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    }
+</style>
+<body>
+    <div id="n3">
+        <img src="logotp.png" width="300px" height="130px">
+    </div>   
+    <a href="home.html" id="casinha">
+        <img src="casinha.png" alt="Voltar para a home" width="60px" height="60px" >
+    </a>
+    <h1 id="h1p">Registrar doação:</h1>
+    <div>
+        <form id="formulario">
+            
+                <label>Nome do produto:</label>
+                <input type="text" name="produto" id="produto" placeholder="Nome" required>
+            <br>
+                <label>Descrição do produto:</label>
+                <textarea name="desc" id="desc" placeholder="Descrição" maxlength="500" rows="10"></textarea>
+            
+            <br>
+                <label>Quantidade:</label>
+                <input type="number" name="qtdde" id="qtdde" placeholder="Quantidade" required>
+            
+            <br>
+                <label>Validade:</label>
+                <input type="date" name="valid" id="valid" placeholder="Validade" required>
+        </form>
+        <a href="doacao2.html">
+            <button class="botao">Cancelar</button>
+        </a>
+        <a href="doacao2.html">
+            <button class="botao">Enviar</button>
+        </a>
+    </div>
+        
+   
+</body>
+</html>
